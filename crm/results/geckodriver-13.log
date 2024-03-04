@@ -1,0 +1,14 @@
+1709558976965	geckodriver	INFO	Listening on 127.0.0.1:35443
+1709558976973	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledy2tJY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709558978063	Marionette	INFO	Marionette enabled
+1709558978150	Marionette	INFO	Listening on port 45741
+WebDriver BiDi listening on ws://127.0.0.1:59183
+Read port: 45741
+1709558978369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59183/devtools/browser/5c690556-7d8c-4c49-9e88-27eb2a041072
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationplayground.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationplayground.com."
+1709559000185	Marionette	INFO	Stopped listening on port 45741

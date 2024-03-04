@@ -2,7 +2,7 @@
 Test Automation Using Robot Framework Selenium
 
 # Integrate selenium library with firefox (Linux ,Ubuntu)
-Download the highligted package from url
+Download the highlighted package from url
 https://github.com/mozilla/geckodriver/releases
 
 ![img.png](img.png)
